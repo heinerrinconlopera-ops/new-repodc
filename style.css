@@ -1,0 +1,24 @@
+p {
+    color:black;
+}
+.destacado{
+    background-color:yellow
+}
+#titulo {
+    text-align:center;
+}
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-size: 16px;
+    color: #333333;
+    background-color: #f5f5f5;
+    line-height: 1.6;
+
+}
+.tarjeta{
+    padding: 20x;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+}
