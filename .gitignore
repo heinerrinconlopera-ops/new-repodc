@@ -1,0 +1,22 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build output
+dist/
+build/
